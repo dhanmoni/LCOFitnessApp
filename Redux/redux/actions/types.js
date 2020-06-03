@@ -1,0 +1,11 @@
+export const SET_NAME = 'SET_NAME';
+export const SET_COUNT_NORMAL = 'SET_COUNT_NORMAL';
+export const SET_COUNT_DAYWISE = 'SET_COUNT_DAYWISE';
+export const SET_ALL_WORKOUT = 'SET_ALL_WORKOUT'
+export const SET_DAYWISE_WORKOUT = 'SET_DAYWISE_WORKOUT'
+export const SET_NORMAL_WORKOUT = 'SET_NORMAL_WORKOUT'
+export const RESET = 'RESET'
+
+
+
+
