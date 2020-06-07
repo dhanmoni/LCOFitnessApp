@@ -27,8 +27,7 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
-    "remote-redux-devtools": "^0.5.16",
-    "remote-redux-devtools-sp": "^0.5.13"
+    "remote-redux-devtools": "^0.5.16"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
